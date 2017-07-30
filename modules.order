@@ -1,0 +1,13 @@
+kernel/crypto/seqiv.ko
+kernel/crypto/ctr.ko
+kernel/crypto/ccm.ko
+kernel/drivers/net/wireless/mwifiex/mwifiex.ko
+kernel/drivers/usb/dwc3/dwc3.ko
+kernel/drivers/usb/dwc3/dwc3-exynos.ko
+kernel/drivers/usb/dwc3/dwc3-keystone.ko
+kernel/drivers/media/usb/gspca/gspca_main.ko
+kernel/drivers/amlogic/usb/dwc_otg/310/dwc_otg.ko
+kernel/drivers/bcma/bcma.ko
+kernel/net/wireless/cfg80211.ko
+kernel/net/mac80211/mac80211.ko
+kernel/lib/cordic.ko
